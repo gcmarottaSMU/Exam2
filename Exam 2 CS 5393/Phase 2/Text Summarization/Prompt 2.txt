@@ -1,0 +1,50 @@
+# Prompt: Summarize the following in 3 sentences: The Panama Canal shortcut greatly reduces the time for ships to travel between the Atlantic and Pacific oceans, enabling them to avoid the lengthy, hazardous route around the southernmost tip of South America via the Drake Passage, the Strait of Magellan or the Beagle Channel. Its construction was one of the largest and most difficult engineering projects ever undertaken. Since its inauguration on August 15, 1914, the canal has succeeded in shortening maritime communication in time and distance, invigorating maritime and economic transportation by providing a short and relatively inexpensive transit route between the two oceans, decisively influencing global trade patterns, boosting economic growth in developed and developing countries, as well as providing the basic impetus for economic expansion in many remote regions of the world. Colombia, France, and later the United States controlled the territory surrounding the canal during construction. France began work on the canal in 1881, but stopped in 1889 because of a lack of investors' confidence due to engineering problems and a high worker mortality rate. The US took over the project in 1904 and opened the canal in 1914. The US continued to control the canal and surrounding Panama Canal Zone until the Torrijos–Carter Treaties provided for its handover to Panama in 1977. After a period of joint American–Panamanian control, the Panamanian government took control in 1999. It is now managed and operated by the Panamanian government-owned Panama Canal Authority.
+
+
+---
+
+## Gemma 3 1B
+Output:
+Here's a 3-sentence summary of the text:
+
+The Panama Canal shortcut significantly reduced travel time between the Atlantic and Pacific, offering a faster and cheaper route
+than traditional routes. Its construction was a massive undertaking, requiring the collaboration of France, the United States, and
+Colombia, culminating in its inauguration in 1914.  The canal’s subsequent control by the US and Panamanian government has
+dramatically shaped global trade and economic development, influencing international connections and driving economic growth
+worldwide.
+
+
+---
+
+## DeepSeek-R1 7B
+Output:
+<think>
+Okay, so I need to summarize this information about the Panama Canal in three sentences. Let me read through it carefully.
+
+First, the main point is that the Panama Canal provides a shortcut for ships between the Atlantic and Pacific oceans. It avoids the
+Drake Passage or other southern routes which are longer and more dangerous. That's probably the first sentence. I'll mention how it
+reduces time and avoids those areas.
+
+Next, I should note that building this canal was a huge engineering project with significant challenges and involvement of multiple
+countries—Colombia, France, then the US after taking over in 1904. They faced problems like engineering issues, high mortality rates
+among workers. So maybe say it was one of the largest and most difficult projects ever done.
+
+Finally, since it opened in 1914, it's had a huge impact: shorter distances, boosted trade, economic growth globally, especially for
+remote areas. It's also now managed by Panama through an authority.
+
+Putting it together concisely without too much detail.
+</think>
+
+The Panama Canal offers a shortcut for ships to travel between the Atlantic and Pacific oceans, bypassing the perilous Drake Passage
+and other southern routes, thereby significantly reducing travel time and danger. Its construction as one of the world's largest
+engineering projects faced challenges including engineering difficulties and high mortality rates among workers, ultimately involving
+Colombia, France, and the United States. Since its 1914 inauguration, it has revolutionized maritime trade by shortening distances,
+boosting global economic growth in both developed and developing nations, while also providing a vital link for remote regions
+worldwide. Today, it is managed by the Panama Canal Authority under the Panamanian government.
+
+
+---
+
+## Mistral Small 3 24B
+Output:
+The Panama Canal, inaugurated in 1914, significantly reduces travel time for ships between the Atlantic and Pacific oceans by bypassing the treacherous southern tip of South America. Its construction, initially by France and later completed by the United States, was a monumental engineering feat that transformed global trade patterns and economic growth. The canal is now managed by the Panamanian government, having transitioned from U.S. control in 1999.

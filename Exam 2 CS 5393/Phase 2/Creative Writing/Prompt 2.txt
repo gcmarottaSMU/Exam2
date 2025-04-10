@@ -1,0 +1,50 @@
+# Prompt: Write a 50-word horror story using only single-syllable words. End with the word “then.”
+
+---
+
+## Gemma 3 1B
+Output:
+The rain fell. Dark, cold. I woke. Dust rose. A face, pale and grim. A tiny hand, reaching. “Stay,” it hissed. I froze. A shadow
+moved. A voice, low. “We’re home.” Then.
+
+
+---
+
+## DeepSeek-R1 7B
+Output:
+<think>
+Okay, so I've got this query where the user wants me to write a 50-word horror story using only single-syllable words and ending with
+"then." Hmm, that's an interesting challenge.
+
+First off, let's break down the requirements. The story needs to be short—only 50 words. That means I have to be concise but
+impactful. Also, every word must have a single syllable. That limits my vocabulary quite a bit because I can't use any multi-syllable
+words even in compound forms.
+
+I should start by setting the scene. Maybe something eerie or unsettling right from the beginning. Words like "dark," "foggy," and
+"creaking floor" come to mind. These evoke a sense of spooky atmosphere without being too wordy.
+
+Next, introducing an element that causes fear. A shadow moving on the wall could be a good choice—it adds intrigue and creepiness.
+Using words like "slimy hand" can create a visual of something mysterious pressing against the wall, increasing tension.
+
+Now, to escalate the fear. Mentioning "eyes" in the mist gives it an unsettling feel because eyes often make things seem alive or
+dangerous. It's a common horror trope but effective within these constraints.
+
+Finally, the requirement is to end with "then." So I need to tie everything together and have that word naturally fit at the end.
+Perhaps something like moving to another place where the danger follows, using words such as "departed," "haunting," and "shadow."
+
+Let me count the syllables quickly to ensure compliance. Each word should only have one syllable. Words like "dark," "foggy,"
+"creaking," "slimy," "hand," "eyes," "mist," "departed," "haunting," and "shadow" all fit.
+
+Putting it all together, the story flows from a setting to introducing an element of fear, escalating the tension with more
+descriptors, and then ending with the necessary word. It's concise yet effective in creating a horror atmosphere.
+</think>
+
+The dark foggy air creaked the floor as a shadow moved on the wall. A slimy hand pressed into the mist, and eyes in the fog blazed
+with dread. Then it departed, haunted by the shadow’s eternal glow.
+
+
+---
+
+## Mistral Small 3 24B
+Output:
+In the dark, a knock. No one there. It came again. I opened the door. A cold wind blew. A shadow moved. I shut the door fast. The knock came once more. I ran. The knock followed. I hid. The knock stopped. I breathed. Then.
